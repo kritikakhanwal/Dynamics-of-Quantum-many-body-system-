@@ -4,7 +4,7 @@ This contains the code used to generate the numerical data of fock space correla
 
 <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L140201" target="_blank">paper</a>
 
-[Link to Paper](https://doi.org/10.1103/PhysRevB.108.L140201)
+[Link to Paper](https://scholar.google.com/scholar_lookup?arxiv_id=2305.06374)
 
 
 
